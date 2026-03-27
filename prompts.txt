@@ -1,0 +1,52 @@
+PROMPT-1
+Act as a performance marketer and UGC content creator.
+
+Create 5 high-converting UGC ad scripts for a protein powder brand.
+
+Target audience: gym beginners (18–28 years old).
+
+Each script must include:
+- Hook (first 3 seconds, scroll-stopping)
+- Problem (relatable pain point)
+- Solution (introduce product naturally)
+- Proof (results, transformation, or trust)
+- CTA (clear action)
+
+Tone: authentic, casual, like a real user experience (not salesy).
+Platform: Instagram Reels / TikTok
+PROMPT-2
+Generate 10 scroll-stopping hooks for a protein powder ad.
+
+Hooks should:
+- Create curiosity
+- Trigger emotion (fear, desire, surprise)
+- Be under 10 words
+- Sound natural and human
+PROMPT-3
+Write 5 high-converting captions for a protein powder UGC ad.
+
+Include:
+- Hook line
+- Short story or benefit
+- CTA
+- Relevant hashtags
+
+Tone: engaging and relatable
+PROMPT-4
+Adapt one UGC ad script for:
+
+- Instagram Reels
+- YouTube Shorts
+- Facebook Ads
+
+Change tone and structure slightly based on platform behavior.
+PROMPT-5
+Create UGC ad scripts using different marketing angles:
+
+1. Problem-solution
+2. Transformation story
+3. Comparison (before vs after)
+4. Myth-busting
+5. Emotional storytelling
+
+Product: protein powder
